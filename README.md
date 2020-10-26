@@ -5,11 +5,13 @@ Home: https://github.com/jupyterhub/oauthenticator
 
 Package license: BSD 3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/oauthenticator-feedstock/blob/master/LICENSE.txt)
 
 Summary: OAuth + JupyterHub Authenticator = OAuthenticator
 
+Development: https://github.com/jupyterhub/oauthenticator
 
+Documentation: https://jhubdocs.readthedocs.io/en/latest/oauthenticator/
 
 Current build status
 ====================
@@ -116,6 +118,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@consideRatio](https://github.com/consideRatio/)
 * [@ericcina](https://github.com/ericcina/)
 * [@sodre](https://github.com/sodre/)
 
